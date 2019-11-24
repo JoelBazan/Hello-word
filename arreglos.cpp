@@ -1,3 +1,5 @@
+//Universidad Politecnica de Tulancingo
+//Logica de programacion
 #include<stdlib.h>
 #include <stdio.h>
 const int n = 5;
