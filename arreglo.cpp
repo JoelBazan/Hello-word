@@ -1,3 +1,8 @@
+*/Universidad Politecnica de Tulancingo
+*/Logica de programacion
+*/Electronica y telecomunicaciones
+*/Joel Esau Bazan Lopez
+*/Este programa ordena diferentes numerosen un arreglo mediante el uso de funciones
 #include <stdio.h>
 #include <stdlib.h>
 const int n = 5;
